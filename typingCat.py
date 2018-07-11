@@ -4,7 +4,7 @@ Created on Tue Jul 10 14:36:33 2018
 
 @author: 11scw
 """
-
+#some random shit somewhere that doesn't affect your code
 from selenium import webdriver as driver
 import time as T
 from selenium.webdriver.common.keys import Keys
@@ -24,7 +24,7 @@ print(active_element.__dir__)
 #current_char = char_element.get_attribute("data-char")
 #active_element.send_keys(current_char)
         
-#for i in range(1,1000):
+#for i in range(1,999):
 #    try:
 #        char_element = chrome_browser.find_element_by_css_selector(".char.active")
 #        current_char = char_element.get_attribute("data-char")
